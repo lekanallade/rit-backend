@@ -10,8 +10,8 @@ For email testing, it uses **MailHog** (local email server).
 
 1. **Clone the repository** (or download it):
    ```bash
-   git clone https://github.com/your-repo/auth-api.git
-   cd auth-api
+   git clone https://github.com/lekanallade/rit-backend.git
+   Move to the root of the project
    ```
 
 2. **Install dependencies**:
